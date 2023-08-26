@@ -1,5 +1,5 @@
 package hello
 
-func Hello(name string) string {
-	return "Hello " + name
+func Hello(namee string) string {
+	return "Hello " + namee
 }

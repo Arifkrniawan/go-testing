@@ -1,3 +1,3 @@
-module github.com/Arifkrniawan/go-testing/v2
+module github.com/Arifkrniawan/go-testing/v3
 
 go 1.21.0
