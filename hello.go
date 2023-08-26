@@ -1,5 +1,5 @@
 package hello
 
-func Hello() string {
-	return "Hello Wordl"
+func Hello(name string) string {
+	return "Hello " + name
 }
